@@ -1,12 +1,12 @@
 const Discord = require('discord.js');
 
-const client = new Discord.Client();
+const client = new Discord.Client(717776979461406772);
 
  
 
 client.on('ready', () => {
 
-    console.log('I am ready!');
+    console.log('this bot is ready!');
 
 });
 
